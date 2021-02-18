@@ -1,2 +1,2 @@
-# nlp
+# Natural Lenguaje Processing
 Resources
